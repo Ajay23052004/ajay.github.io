@@ -1,2 +1,0 @@
-# ajay
-my first project 
